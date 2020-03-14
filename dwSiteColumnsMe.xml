@@ -1,8 +1,0 @@
-<columnlist version="2">
-<column name="Local%20Files" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="185" remotewidth="180" />
-<column name="Notes" align="center" show="FALSE" share="FALSE" builtin="TRUE" localwidth="56" remotewidth="56" />
-<column name="Size" align="right" show="FALSE" share="FALSE" builtin="TRUE" localwidth="-2" remotewidth="-2" />
-<column name="Type" align="left" show="FALSE" share="FALSE" builtin="TRUE" localwidth="80" remotewidth="80" />
-<column name="Modified" align="left" show="FALSE" share="FALSE" builtin="TRUE" localwidth="122" remotewidth="122" />
-<column name="Checked%20Out%20By" align="left" show="FALSE" share="FALSE" builtin="TRUE" localwidth="-1" remotewidth="-1" />
-</columnlist>
